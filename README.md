@@ -17,3 +17,9 @@
 * 🗄️ GitHub: https://github.com/maishaadila06
 * 💻 Instagram https://instagram.com/maishadlaa
 
+## 💻 I'm Currently Learning
+
+*Current Focus:*
+* 🗄️ Advanced Database Management (MySQL & MariaDB)
+* 🌐 Full-stack Web Development (Laravel & Tailwind CSS)
+* 🚀 UI/UX Designer (Figma)
