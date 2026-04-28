@@ -23,3 +23,9 @@
 * 🗄️ Advanced Database Management (MySQL & MariaDB)
 * 🌐 Full-stack Web Development (Laravel & Tailwind CSS)
 * 🚀 UI/UX Designer (Figma)
+
+## About #🚀 My Projects
+* *KlikPilih*: A web-based project designed to simplify the E-Voting process with a modern dashboard.
+* *Equogreen: A collaboration project with **PT Ecogreen* to streamline the Quotation process.
+
+I document my coding journey and database debugging experiences. You can find my work in my repositories.
