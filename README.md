@@ -29,3 +29,10 @@
 * *Equogreen: A collaboration project with **PT Ecogreen* to streamline the Quotation process.
 
 I document my coding journey and database debugging experiences. You can find my work in my repositories.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maishaadila06&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maishaadila06&layout=compact&theme=radical" alt="Top Langs" />
+</p>
