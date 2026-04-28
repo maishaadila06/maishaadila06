@@ -13,3 +13,7 @@
 * 🎓 *Currently:* Software Engineering Student at **Politeknik Negeri Batam**
 * 🚀 *Projects:* Developing **KlikPilih** (E-Voting System) & **Equogreen** (E-Quotation System)
 
+* 💼 LinkedIn: https://linkedin.com/in/maisha-zahra-0a752a406/
+* 🗄️ GitHub: https://github.com/maishaadila06
+* 💻 Instagram https://instagram.com/maishadlaa
+
